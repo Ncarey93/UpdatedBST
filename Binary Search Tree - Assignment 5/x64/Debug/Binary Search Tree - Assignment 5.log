@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ncare\source\repos\Binary Search Tree - Assignment 5\Binary Search Tree - Assignment 5\main.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Binary Search Tree - Assignment 5.vcxproj -> C:\Users\ncare\source\repos\Binary Search Tree - Assignment 5\x64\Debug\Binary Search Tree - Assignment 5.exe

@@ -1,0 +1,8 @@
+﻿Build started at 12:11 AM...
+1>------ Build started: Project: Binary Search Tree - Assignment 5, Configuration: Debug x64 ------
+1>main.cpp
+1>C:\Users\ncare\source\repos\Binary Search Tree - Assignment 5\Binary Search Tree - Assignment 5\main.cpp(79,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>Binary Search Tree - Assignment 5.vcxproj -> C:\Users\ncare\source\repos\Binary Search Tree - Assignment 5\x64\Debug\Binary Search Tree - Assignment 5.exe
+1>Done building project "Binary Search Tree - Assignment 5.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:11 AM and took 00.698 seconds ==========
